@@ -19,7 +19,14 @@
 
 ## My Stats
 <p>
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=karanalpe&show_icons=true)
  
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/joao5566) 
+![João Vitor Status](https://github-readme-stats.vercel.app/api?username=joao5566&show_icons=true&:&hide=stars,issues,contribs)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joao5566&layout=compact)](https://github.com/joao5566) 
+
 </p>
+
+
+##  🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="joao201566@gmail.com"><img src="https://img.shields.io/badge/-joao201566@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
