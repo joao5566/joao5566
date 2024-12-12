@@ -29,8 +29,3 @@
 
 </p>
 
-## 🤝🏻 &nbsp;Connect with Me
-
-<p align="center">
-<a href="joao201566@gmail.com"><img src="https://img.shields.io/badge/-joao201566@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
-</p>
