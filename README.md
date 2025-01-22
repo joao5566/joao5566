@@ -5,19 +5,21 @@
 ### 💻 &nbsp;About Me 
 
 - 🤔 &nbsp; I like to learn new things and currently I decided to venture into the world of programming :)
-- 🎓 &nbsp; Studying Java with documentation and books I am also learning to speak English.
+- 🎓 &nbsp; Studying **Java**, **C++**, and **Lua**. I am also learning to speak English.
 - 🎮 &nbsp; Exploring the world of game development using **Lua** and **Love2D**!
 
 ### 🛠 &nbsp;Learning
 
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 ![Love2D](https://img.shields.io/badge/L%C3%96VE-FF69B4?style=for-the-badge&logo=love&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-- 🔧 &nbsp;
+### 🛠 &nbsp;Tools
 
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
@@ -28,4 +30,3 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=joao5566&layout=compact)](https://github.com/joao5566) 
 
 </p>
-
