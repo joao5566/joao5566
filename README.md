@@ -20,6 +20,13 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+
+### 🎯 &nbsp;Future Goals
+- 💡 &nbsp;Learn more about **C++** and build my own game engine from scratch.
+- 🌍 &nbsp;Contribute to open-source projects related to game development and programming tools.
+- 🎮 &nbsp;Create and publish my own games using **Lua** and **Love2D**.
+
+
 ## My Stats
 <p>
  
