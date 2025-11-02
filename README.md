@@ -38,7 +38,7 @@ Aqui estão alguns dos projetos que desenvolvi e mantenho no meu Gitea pessoal:
 | `Guess-the-Number-Game` | Outro jogo de adivinhação |
 | `homelab-backup` | Script de backup do homelab |
 | `Meus-estudos-de-python-Blackjack` | Blackjack em Python |
-| 'Memos_cli' | Um interface de terminal para interagir com o memos|
+| `Memos_cli` | Um interface de terminal para interagir com o memos|
 
 ---
 
